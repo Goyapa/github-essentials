@@ -1,2 +1,4 @@
-# Book source files 
-9781783553716_code
+.bundle
+.sass-cache
+.vendor
+_site
